@@ -86,3 +86,13 @@
     
     5. **Output:**
         Display data for user validation or directly save to a database, contact list, or CRM.
+
+**Here Some of the Screenshots**
+        
+    ![Screenshot (112)](https://github.com/user-attachments/assets/df0fffe5-c10f-471c-8b30-89d7e6587da1)
+    
+    ![Screenshot (113)](https://github.com/user-attachments/assets/c024646b-af9d-47e1-be59-6806644d7b04)
+    
+    ![Screenshot (114)](https://github.com/user-attachments/assets/24b46ea6-f377-44f8-80f3-39d312e98f62)
+    
+    ![Screenshot (115)](https://github.com/user-attachments/assets/cebbcd0b-3654-4aa3-82b2-ce900d5f26fb)
